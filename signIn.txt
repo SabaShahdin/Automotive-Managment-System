@@ -1,0 +1,5 @@
+saba,12345678,admin
+ali,23456789,employee
+ahmad,34567890,manager
+rabia,12345678,employee
+hamzaabc,12345678,admin

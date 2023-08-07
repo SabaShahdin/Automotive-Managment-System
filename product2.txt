@@ -1,0 +1,4 @@
+barrel,2300
+gear shifting,5600
+lock,9800
+output,3400

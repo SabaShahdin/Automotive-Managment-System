@@ -1,0 +1,4 @@
+input shaft,100
+output shaft,7800
+lala,234
+joi,67

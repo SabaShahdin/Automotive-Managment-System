@@ -1,0 +1,6 @@
+monday,output shaft,3400,8,27200
+tuesday,input shaft,7800,8,62400
+friday,gear,6700,8,53600
+monday,output shaft,3400,8,27200
+tuesday,gear,6700,9,60300
+32,input shaft,100,2000,200000

@@ -1,0 +1,3 @@
+monday,lock,5600,8,44800
+saturday,barrel,9800,8,78400
+monday,lock,5600,8,44800
